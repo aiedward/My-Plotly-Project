@@ -1,5 +1,5 @@
 
-setwd("C:/Users/Edward/Documents/9Week3")
+setwd("C:/Users/Edward/Documents/GitHub/My-Plotly-Project")
 
 library(ggplot2)
 library(plotly)
